@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1f287667-d6b5-41c4-9920-0dc09965037b",
+  "importer": "texture",
+  "type": "raw",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 960,
+  "height": 106,
+  "platformSettings": {
+    "android": {
+      "formats": [
+        {
+          "name": "etc1",
+          "quality": "slow"
+        }
+      ]
+    },
+    "ios": {
+      "formats": [
+        {
+          "name": "etc2",
+          "quality": "slow"
+        }
+      ]
+    }
+  },
+  "subMetas": {}
+}

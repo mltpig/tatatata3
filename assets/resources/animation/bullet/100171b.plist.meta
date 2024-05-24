@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "7dc13696-7162-4b42-8b7e-e3cfaf3dbb27",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "40942319-2825-4116-b9ea-e8a5325c8b36",
+  "size": {
+    "width": 239,
+    "height": 75
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "jian.png": {
+      "ver": "1.0.6",
+      "uuid": "87fa6280-e587-4ae2-971a-644ca2732297",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "40942319-2825-4116-b9ea-e8a5325c8b36",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 239,
+      "height": 75,
+      "rawWidth": 239,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

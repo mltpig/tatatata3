@@ -1,0 +1,103 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "clickAnimation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "click": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 45
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 90
+            }
+          ],
+          "width": [
+            {
+              "frame": 0,
+              "value": 40
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 120
+            }
+          ],
+          "height": [
+            {
+              "frame": 0,
+              "value": 40
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 120
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "click1": {
+        "props": {
+          "width": [
+            {
+              "frame": 0,
+              "value": 40
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 100
+            }
+          ],
+          "height": [
+            {
+              "frame": 0,
+              "value": 40
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 100
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 0
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": -180
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

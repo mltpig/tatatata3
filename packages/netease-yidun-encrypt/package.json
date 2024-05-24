@@ -1,0 +1,23 @@
+{
+    "name": "netease-yidun-encrypt",
+    "version": "1.0.2",
+    "description": "移动游戏资源加密（Android、iOS、微信小程序）",
+    "author": "网易易盾",
+    "main": "main.js",
+    "main-menu": {
+            "i18n:MAIN_MENU.package.title/i18n:netease-yidun-encrypt.title": {
+            "message": "netease-yidun-encrypt:showPanel"
+        }
+    },
+    "panel": {
+        "main": "panel/index.js",
+        "type": "dockable",
+        "title": "易盾游戏加固",
+        "width": 680,
+        "height": 450,
+        "min-width": 680,
+        "min-height": 450,
+        "max-width": 680,
+        "max-height": 450
+    }
+}

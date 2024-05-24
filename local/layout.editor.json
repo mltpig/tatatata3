@@ -1,0 +1,150 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": 0,
+      "y": 25,
+      "width": 1440,
+      "height": 771,
+      "layout": {
+        "type": "dock-h",
+        "children": [
+          {
+            "width": 225,
+            "height": 683.5,
+            "type": "dock-v",
+            "children": [
+              {
+                "width": 225,
+                "height": 252.8125,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ]
+              },
+              {
+                "width": 225,
+                "height": 427.6875,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "assets",
+                  "cloud-function"
+                ]
+              }
+            ]
+          },
+          {
+            "width": 902,
+            "height": 683.5,
+            "type": "dock-v",
+            "children": [
+              {
+                "width": 902,
+                "height": 413.296875,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "scene"
+                ]
+              },
+              {
+                "width": 902,
+                "height": 267.1875,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "console",
+                  "timeline",
+                  "game-window"
+                ]
+              }
+            ]
+          },
+          {
+            "width": 307,
+            "height": 683.5,
+            "type": "panel",
+            "active": 1,
+            "children": [
+              "inspector",
+              "cocos-services"
+            ]
+          }
+        ]
+      },
+      "panels": [
+        "hierarchy",
+        "assets",
+        "cloud-function",
+        "scene",
+        "console",
+        "timeline",
+        "game-window",
+        "inspector",
+        "cocos-services"
+      ]
+    }
+  },
+  "panels": {
+    "excel-killer": {
+      "x": 405,
+      "y": 23,
+      "width": 520,
+      "height": 765
+    },
+    "preferences": {
+      "x": 484,
+      "y": 233,
+      "width": 600,
+      "height": 565
+    },
+    "project-settings": {
+      "x": 366,
+      "y": 23,
+      "width": 600,
+      "height": 565
+    },
+    "builder": {
+      "x": 407,
+      "y": 28,
+      "width": 500,
+      "height": 722
+    },
+    "netease-yidun-encrypt": {
+      "x": 359,
+      "y": 30,
+      "width": 684,
+      "height": 504
+    },
+    "node-library": {
+      "x": 570,
+      "y": 137,
+      "width": 300,
+      "height": 502
+    },
+    "cloud-function": {
+      "x": 570,
+      "y": 179,
+      "width": 300,
+      "height": 448
+    },
+    "simulator-debugger": {
+      "x": 0,
+      "y": 25,
+      "width": 1440,
+      "height": 771
+    },
+    "find-assets": {
+      "x": 470,
+      "y": 77,
+      "width": 500,
+      "height": 622
+    }
+  },
+  "panelLabelWidth": {}
+}

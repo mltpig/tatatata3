@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>job3.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{75,75}</string>
+                <key>spriteSourceSize</key>
+                <string>{75,75}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{75,75}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>50003bf.png</string>
+            <key>size</key>
+            <string>{75,75}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:3e49bde3ee44d05f07124a16a5d5e5a8:dde07950c2ebe22763b61fc5c116e237:78761d74f4810474cc2b62a8a58b7d1d$</string>
+            <key>textureFileName</key>
+            <string>50003bf.png</string>
+        </dict>
+    </dict>
+</plist>

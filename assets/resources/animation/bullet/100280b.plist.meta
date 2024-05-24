@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "5d84ee51-ea05-47ed-9e01-c056ed0cbc9e",
+  "importer": "asset",
+  "rawTextureUuid": "e35bc93b-75e4-412f-be4b-9fd7ffab202d",
+  "size": {
+    "width": 79,
+    "height": 20
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "100280b.png": {
+      "ver": "1.0.6",
+      "uuid": "47be6124-1988-4e46-8fd2-f3e926acd4fe",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e35bc93b-75e4-412f-be4b-9fd7ffab202d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 79,
+      "height": 20,
+      "rawWidth": 79,
+      "rawHeight": 20,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

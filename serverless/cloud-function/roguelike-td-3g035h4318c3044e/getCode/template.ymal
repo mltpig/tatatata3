@@ -1,0 +1,20 @@
+
+Resources:
+  roguelike-td-3g035h4318c3044e:
+    Type: TencentCloud::Serverless::Namespace
+    getCode:
+      Properties:
+        CodeUri: .
+        Description: ''
+        Environment:
+          Variables: {}
+        Events: {}
+        Handler: index.main
+        MemorySize: 256
+        Role: TCB_QcsRole
+        Runtime: Nodejs10.15
+        Timeout: 20
+        VpcConfig:
+          SubnetId: ''
+          VpcId: ''
+      Type: TencentCloud::Serverless::Function

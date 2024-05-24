@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "8d166954-7898-4f92-b9b4-d779e10740d6",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "0b7c3f43-100a-4978-a758-69e02b22c145",
+  "size": {
+    "width": 79,
+    "height": 20
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "unity3D手游动作游戏源代码-手游动作游戏源代码，使用N_爱给网_aigei_com.png": {
+      "ver": "1.0.6",
+      "uuid": "5d1959af-dbb8-40e6-b21b-ef6fae3b861b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0b7c3f43-100a-4978-a758-69e02b22c145",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 79,
+      "height": 20,
+      "rawWidth": 79,
+      "rawHeight": 20,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

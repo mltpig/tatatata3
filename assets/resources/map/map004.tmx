@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.6" orientation="orthogonal" renderorder="left-down" width="16" height="12" tilewidth="75" tileheight="75" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" source="battle.tsx"/>
+ <tileset firstgid="2" source="heroPos.tsx"/>
+ <tileset firstgid="3" source="lr.tsx"/>
+ <tileset firstgid="4" source="lt.tsx"/>
+ <tileset firstgid="5" source="lr_r1.tsx"/>
+ <tileset firstgid="6" source="lt_r1.tsx"/>
+ <tileset firstgid="7" source="lr_r2.tsx"/>
+ <tileset firstgid="8" source="lt_r2.tsx"/>
+ <tileset firstgid="9" source="lr_r3.tsx"/>
+ <tileset firstgid="10" source="lt_r3.tsx"/>
+ <layer name="road1" width="16" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgw2wMDAcYAbShDAuvSxk2Akzkxy9QxkAADCKAbI=
+  </data>
+ </layer>
+ <layer name="road2" width="16" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgegBWK2RgYEigxB6h/ASVmQPUvgLkHHx4FAw8Aa68C9g==
+  </data>
+ </layer>
+ <layer name="road3" width="16" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgwlwMDAcoFQ/O5DGhoFyCbj0IanBZ/YCZPOGAwAAWTEC9g==
+  </data>
+ </layer>
+ <layer name="road4" width="16" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgegBOKuRgYEnCpAcod4ERSi0PNAmQ1yJiLmg4eBYMCAACqCAJM
+  </data>
+ </layer>
+ <layer name="tower" width="16" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFMMBIBf2UmEEN/aOANAAADHAABw==
+  </data>
+ </layer>
+</map>

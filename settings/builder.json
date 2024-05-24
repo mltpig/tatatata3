@@ -1,0 +1,59 @@
+{
+  "title": "roguelikeTd",
+  "packageName": "org.cocos2d.demo",
+  "startScene": "742aba95-5f21-419b-81fe-7b5380013ea3",
+  "excludeScenes": [
+    "18916f4f-690c-45c8-ab27-8e8eb083349d",
+    "ae76995f-3571-4327-a778-b304378f33ea"
+  ],
+  "orientation": {
+    "landscapeRight": true,
+    "landscapeLeft": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "webOrientation": "auto",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mainCompressionType": "merge_all_json",
+  "mainIsRemote": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": true,
+  "nativeMd5Cache": false,
+  "encryptJs": true,
+  "xxteaKey": "386a057a-ce6b-41",
+  "zipCompressJs": true,
+  "fb-instant-games": {},
+  "android": {
+    "packageName": "com.colaCat.ntd",
+    "REMOTE_SERVER_ROOT": ""
+  },
+  "ios": {
+    "packageName": "com.colaCat.ntd",
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true
+  },
+  "mac": {
+    "packageName": "com.colaCat.ntd",
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "android-instant": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "pathPattern": "",
+    "scheme": "https",
+    "host": "",
+    "skipRecord": false,
+    "recordPath": ""
+  },
+  "appBundle": false,
+  "agreements": {},
+  "includeAnySDK": false
+}

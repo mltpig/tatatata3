@@ -1,0 +1,97 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bgAnimation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.033333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "wang": {
+        "props": {
+          "color": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 230,
+                "g": 146,
+                "b": 146,
+                "a": 255
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 146,
+                "g": 225,
+                "b": 230,
+                "a": 255
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+              }
+            }
+          ]
+        }
+      },
+      "xiantiao": {
+        "props": {
+          "color": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 1.4833333333333334,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 217,
+                "g": 189,
+                "b": 189,
+                "a": 255
+              }
+            },
+            {
+              "frame": 3.033333333333333,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>僵尸防御游戏素材-gunm 高级子弹(bullet)_爱给网_aigei_com.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{30,20}</string>
+                <key>spriteSourceSize</key>
+                <string>{30,20}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{30,20}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>110008b.png</string>
+            <key>size</key>
+            <string>{30,20}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:51faf836cf81fa8d3776b7f466cb2314:96a2671f78453238677a744c5486aade:a97b1feaca7eade809afa8c8c5af6f0f$</string>
+            <key>textureFileName</key>
+            <string>110008b.png</string>
+        </dict>
+    </dict>
+</plist>

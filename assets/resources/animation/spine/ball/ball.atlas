@@ -1,0 +1,132 @@
+
+ball.png
+size: 2040,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball/round_bg
+  rotate: false
+  xy: 1, 1
+  size: 577, 577
+  orig: 577, 577
+  offset: 0, 0
+  index: -1
+ball/round_1
+  rotate: false
+  xy: 1705, 266
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+ball/round_2
+  rotate: false
+  xy: 1416, 580
+  size: 337, 354
+  orig: 337, 354
+  offset: 0, 0
+  index: -1
+ball/round_3
+  rotate: false
+  xy: 1755, 580
+  size: 283, 285
+  orig: 283, 285
+  offset: 0, 0
+  index: -1
+ball/round_4
+  rotate: false
+  xy: 580, 1
+  size: 263, 263
+  orig: 263, 263
+  offset: 0, 0
+  index: -1
+ball/round_5
+  rotate: false
+  xy: 580, 266
+  size: 262, 262
+  orig: 262, 262
+  offset: 0, 0
+  index: -1
+ball/round_6
+  rotate: false
+  xy: 844, 266
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+ball/round_7
+  rotate: false
+  xy: 1080, 266
+  size: 224, 222
+  orig: 224, 222
+  offset: 0, 0
+  index: -1
+ball/round_8
+  rotate: false
+  xy: 1306, 266
+  size: 204, 210
+  orig: 204, 210
+  offset: 0, 0
+  index: -1
+ball/ball
+  rotate: false
+  xy: 1755, 867
+  size: 129, 136
+  orig: 129, 136
+  offset: 0, 0
+  index: -1
+ball/round_9
+  rotate: false
+  xy: 1512, 266
+  size: 191, 189
+  orig: 191, 189
+  offset: 0, 0
+  index: -1
+ball/round_10
+  rotate: false
+  xy: 845, 1
+  size: 166, 167
+  orig: 166, 167
+  offset: 0, 0
+  index: -1
+ball/orange
+  rotate: false
+  xy: 1512, 457
+  size: 97, 109
+  orig: 97, 109
+  offset: 0, 0
+  index: -1
+ball/green
+  rotate: false
+  xy: 1705, 446
+  size: 119, 122
+  orig: 119, 122
+  offset: 0, 0
+  index: -1
+ball/blue
+  rotate: false
+  xy: 1886, 867
+  size: 104, 155
+  orig: 104, 155
+  offset: 0, 0
+  index: -1
+ball/flash_3
+  rotate: false
+  xy: 1, 580
+  size: 478, 426
+  orig: 478, 426
+  offset: 0, 0
+  index: -1
+ball/flash_2
+  rotate: false
+  xy: 941, 580
+  size: 473, 402
+  orig: 473, 402
+  offset: 0, 0
+  index: -1
+ball/flash_1
+  rotate: false
+  xy: 481, 580
+  size: 458, 440
+  orig: 458, 440
+  offset: 0, 0
+  index: -1

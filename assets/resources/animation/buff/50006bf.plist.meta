@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "46dd2455-8373-4a13-b12c-0c90ea5dbb69",
+  "importer": "asset",
+  "rawTextureUuid": "43ae3ed1-3518-46e5-b113-e4f18db375e4",
+  "size": {
+    "width": 75,
+    "height": 75
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "job6.png": {
+      "ver": "1.0.6",
+      "uuid": "e9aa4db9-b7e6-4c41-be62-507ee21bd43f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "43ae3ed1-3518-46e5-b113-e4f18db375e4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 75,
+      "height": 75,
+      "rawWidth": 75,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

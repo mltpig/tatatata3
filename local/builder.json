@@ -1,0 +1,25 @@
+{
+  "platform": "android",
+  "actualPlatform": "android",
+  "template": "default",
+  "buildPath": "./build",
+  "debug": false,
+  "sourceMaps": false,
+  "embedWebDebugger": false,
+  "previewWidth": "1280",
+  "previewHeight": "720",
+  "useDebugKeystore": false,
+  "keystorePath": "/Users/zhuzhiwei/Documents/work/study/game/ntd/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/colaCatTD.keystore",
+  "keystorePassword": "colaCatZZW123",
+  "keystoreAlias": "keyTD.keystore",
+  "keystoreAliasPassword": "colaCatZZW123",
+  "apiLevel": "android-28",
+  "appABIs": [
+    "armeabi-v7a",
+    "arm64-v8a",
+    "x86",
+    "x86_64"
+  ],
+  "vsVersion": "auto",
+  "buildScriptsOnly": false
+}
