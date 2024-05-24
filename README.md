@@ -2,6 +2,7 @@
 
 #### 介绍
 塔塔塔塔塔防是一款开源的cocos小游戏,数值深入Tap平台有上架.
+试玩地址：https://byhcdn.333666999.club/tatata3/index.html
 
 #### 安装教程
 
